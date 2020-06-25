@@ -1,0 +1,123 @@
+
+.web{
+  font-weight:normal;
+}
+body{
+  text-align: center;
+}
+.top_container{
+    line-height: 2;
+    background-color: #96bb7c;
+    position: relative;
+    padding: 100px;
+    margin-bottom: 10px;
+  }
+
+h1{
+  font-size: 5.625rem;
+  color: #111d5e;
+  font-family: 'Montez', cursive;
+}
+h2{
+  font-size: 2.5rem;
+  color: #111d5e;
+  font-family: 'Montez', cursive;
+}
+p{
+  color: #111d5e;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 100px;
+
+}
+
+.web{
+  text-decoration: underline;
+}
+.bottom_cloud{
+  left: 500px;
+  bottom: 400px;
+  position: absolute;
+}
+.upper_cloud{
+  right: 500px;
+  top: 30px;
+  position: absolute;
+}
+.skill-row1{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  margin-bottom: 40px;
+  text-align: center;
+  line-height: 2;
+}
+.computer{
+  float: left;
+  margin-right: 30px;
+}
+.skill-row2{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  margin-bottom: 100px;
+  text-align: center;
+  line-height: 2;
+
+
+}
+.chillies{
+  float: right;
+  margin-left: 30px;
+}
+
+.skills{
+  text-align: center;
+  padding: 50px;
+
+}
+.middle-container{
+  display: block;
+}
+hr {
+
+  border-style: dotted none none;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+.bottom-container{
+  line-height: 2;
+  background-color: #96bb7c;
+  position: relative;
+  margin-bottom: 10px;
+  color: #111d5e;
+  font-family: 'Merriweather', serif;
+}
+.footer-link{
+  padding: 20px;
+  font-size: 1.625rem;
+}
+.myButton {
+  margin: 50px;
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	font-weight:bold;
+	padding:14px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.end-line{
+  font-size:10px;
+  color:#EAF6F6;
+}
